@@ -71,7 +71,8 @@ Pathfinding algorithms with obstacle placement:
 ---
 
 ## 📷 Live Demo
-**[View on Netlify](ashish-dsa.netlify.app)**
+**[View on Netlify](https://ashish-dsa.netlify.app)**  
+_Click the link above to open the live site._
 
 ---
 
@@ -87,3 +88,4 @@ Pathfinding algorithms with obstacle placement:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ashish0panda/dsa-visualizer.git
+
