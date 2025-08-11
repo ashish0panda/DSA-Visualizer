@@ -71,7 +71,7 @@ Pathfinding algorithms with obstacle placement:
 ---
 
 ## 📷 Live Demo
-**[View on Netlify](#)** _(Link will be added after deployment)_
+**[View on Netlify](ashish-dsa.netlify.app)**
 
 ---
 
